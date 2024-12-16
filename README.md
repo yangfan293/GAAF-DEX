@@ -25,14 +25,12 @@ pip install -r requirements.txt
 Download the FAH dataset
 .
 
-### 3. Train and Test
+### 3. Train
 
-Our pretrained model can be downloaded
-  from .... Run following commands to start training or testing:
+Run following commands to start training or testing:
 
 ```
-python train.py --data_root <PATH_TO_DATA>
-python test.py --data_root <PATH_TO_DATA> --model_file <PATH_TO_MODEL>
+python train_daaf.py --data_root <PATH_TO_DATA>
 ```
 
 ## Citation
