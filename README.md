@@ -4,9 +4,7 @@
 [![GitHub](https://img.shields.io/website?label=Project%20Page&up_message=page&url=https://reagan1311.github.io/locate/)](https://reagan1311.github.io/locate/)
 [![ ](https://img.shields.io/youtube/views/RLHansdFxII?label=Video&style=flat)](https://www.youtube.com/watch?v=RLHansdFxII)  -->
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/905d8ed1-1bc3-4545-9d55-49e5bfd404b1" width="500"/>
-</div>
+https://github.com/user-attachments/assets/905d8ed1-1bc3-4545-9d55-49e5bfd404b1
 ## Abstract
 
 To enable robots to use tools, the initial step is teaching robots to employ dexterous gestures for touching specific areas precisely where tasks are performed. Affordance features of objects serve as a bridge in the functional interaction between agents and objects. However, leveraging these affordance cues to help robots achieve functional tool grasping remains
