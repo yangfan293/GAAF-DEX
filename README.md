@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ### 2. Dataset
 
-Download the FAH dataset
+You can download the FAH from [Baidu Pan (3.32G)](https://pan.baidu.com).
 .
 
 ### 3. Train
